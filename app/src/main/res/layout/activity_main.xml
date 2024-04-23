@@ -7,6 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+
     <TextView
         android:id="@+id/tvName"
         android:layout_width="wrap_content"
@@ -85,7 +86,7 @@
         android:id="@+id/button2"
         android:layout_width="20mm"
         android:layout_height="8mm"
-        android:text="Follow"
+        android:text=""
         android:textSize="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
